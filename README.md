@@ -13,7 +13,7 @@ some features that i have implemented in my website is a simpler UX for new list
 the existing features of the site includes the main page about the band, the gallery, a form to be informed about the band and get the latest news, their merch page and their tour dates
 
 # features left to implement
-some features left to implement is to probably make my website with a better user experience and easier to maneuver throughout the site
+some features left to implement is to probably make my website with a better UX and easier to maneuver throughout the site
 
 # technologies used
 i mostly used html/css in my website with some javascript codes

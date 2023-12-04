@@ -6,7 +6,34 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px 0 20px;
+}
+
+.container .box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container .box .pics img{
+width: 100%;
+padding-bottom: 15px;
+border-radius: 5px;
+}
+
+.container .box .pics{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    }
 
 body {
     margin: 0;
@@ -14,7 +41,6 @@ body {
     background: #ccc;
     font-family: 'Barlow';
     text-align: center;
-    
 }
 
 .navigateul{
@@ -53,6 +79,7 @@ header{
     background: #6C7B95;
     position: fixed;
 }
+
 /*
 div.gallery {
     border: 1px solid #ccc;

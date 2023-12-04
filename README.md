@@ -34,4 +34,4 @@ link to their twitter: https://twitter.com/Sleep_Token/media
 link to their official page: https://www.sleep-token.com/
 
 # acknowledgements
-i received inspiration from slipknot's website and by sleep token themselves as they are currently my favourite band and i wanted to make my own fanpage about them.
+i received inspiration from slipknot's website (https://slipknot1.com/) and by sleep token (https://www.sleep-token.com/) themselves as they are currently my favourite band and i wanted to make my own fanpage about them.

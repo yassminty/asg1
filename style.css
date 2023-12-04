@@ -80,6 +80,12 @@ header{
     position: fixed;
 }
 
+form{
+    display: block;
+    text-align: center;
+    width: 75%;
+    height: 70px;
+}
 /*
 div.gallery {
     border: 1px solid #ccc;
